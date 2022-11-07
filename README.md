@@ -1,7 +1,6 @@
 #kithekadk
 
 <div align="center">Hello, I'm Daniel Kitheka
-<img src="" align="center" style="width: 100%" />
 </div>  
   
 
