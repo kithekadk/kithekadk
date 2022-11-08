@@ -1,6 +1,6 @@
 #kithekadk
 
-<div align="center">Hello, I'm Daniel Kitheka
+<div align="center"><h2>Hello, I'm Daniel Kitheka</h2>
 </div>  
   
 
