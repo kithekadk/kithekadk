@@ -4,13 +4,13 @@
 </div>  
   
 
-### <div align="center">I'm , a full-time full-stack developer 👨‍💻  🚀</div>  
+### <div align="center">I'm , a full-stack developer 👨‍💻  🚀</div>  
   
 
 - 🔭 Find me on <a href="https://www.linkedin.com/in/daniel-kakinyi-70a8b6222/">LinkedIn</a> 
   
 
-- 🌱 I’m currently learning Spring Boot  
+- 🌱 I’m currently learning Elixir 
   
 
 - ❓ Ask me about anything related to _script👌  
