@@ -78,7 +78,7 @@
 </div>  
   
 <br/>
-## Wakatime
+<h2>Wakatime</h2> <br/>
 <a href="https://wakatime.com/@a9f256e1-4fa4-4208-8850-c23d552f4d7d"><img src="https://wakatime.com/badge/user/a9f256e1-4fa4-4208-8850-c23d552f4d7d.svg" alt="Total time coded since Nov 23 2022" /></a>
 
 <br/>  
