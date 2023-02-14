@@ -77,9 +77,11 @@
 </a>  
 </div>  
   
+<br/>
+## Wakatime
+<a href="https://wakatime.com/@a9f256e1-4fa4-4208-8850-c23d552f4d7d"><img src="https://wakatime.com/badge/user/a9f256e1-4fa4-4208-8850-c23d552f4d7d.svg" alt="Total time coded since Nov 23 2022" /></a>
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kithekadk&show_icons=true&count_private=true&hide_border=true" align="center"/></div>  
