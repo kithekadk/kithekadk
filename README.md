@@ -10,7 +10,7 @@
 - 🔭 Find me on <a href="https://www.linkedin.com/in/daniel-kakinyi-70a8b6222/">LinkedIn</a> 
   
 
-- 🌱 I’m currently learning Elixir 
+- 🌱 I’m currently learning AWS
   
 
 - ❓ Ask me about anything related to _script👌  
@@ -83,30 +83,40 @@
 
 <br/>  
 
+
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kithekadk&show_icons=true&count_private=true&hide_border=true" align="center"/></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+## Streaming 
   
 
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314lxi324wwz4uezxas7mlppawai&cover_image=true&theme=default" /></div>  
 
+<br/> 
+
+## Stats
+
+<br/>
+
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kithekadk&count_private=true&show_icons=true&theme=algolia">
+</a>
+ <a href="">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kithekadk&theme=algolia" alt="kithekadk" />
+</a>
+
+<br/>
+<br/>
+
+## Views
+
 <br/>  
+<div align="center"><img src="https://komarev.com/ghpvc/?username=kithekadk&&style=flat-square" align="center" /></div>
+<br/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kithekadk&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
