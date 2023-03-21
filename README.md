@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to _script👌  
   
 
-- ⚡ Fun fact: I can write Angular in a noisy crowd  
+- ⚡ Fun fact: Dark mode because light attracts bugs  
   
 
 <br/>  
