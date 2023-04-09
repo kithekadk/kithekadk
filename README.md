@@ -10,7 +10,7 @@
 - 🔭 Find me on <a href="https://www.linkedin.com/in/daniel-kakinyi-70a8b6222/">LinkedIn</a> 
   
 
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Flutter
   
 
 - ❓ Ask me about anything related to _script👌  
