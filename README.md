@@ -83,9 +83,11 @@
 
 <br/>  
 
-
-
-## Github Stats  
+## Contributions
+ <a href="">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kithekadk&theme=algolia" alt="kithekadk" />
+</a>
+ 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kithekadk&show_icons=true&count_private=true&hide_border=true" align="center"/></div>  
 
 <br/>  
@@ -107,14 +109,10 @@
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kithekadk&count_private=true&show_icons=true&theme=algolia">
 </a>
- <a href="">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kithekadk&theme=algolia" alt="kithekadk" />
-</a>
 
 <br/>
-<br/>
 
-## Views
+## Profile views
 
 <br/>  
 <div align="center"><img src="https://komarev.com/ghpvc/?username=kithekadk&&style=flat-square" align="center" /></div>
