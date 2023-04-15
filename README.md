@@ -84,10 +84,11 @@
 <br/>  
 
 ## Contributions
- <a href="">
+<div align="center">
+<a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kithekadk&theme=algolia" alt="kithekadk" />
-  <br>
 </a>
+</div>
  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kithekadk&show_icons=true&count_private=true&hide_border=true" align="center"/></div>  
 
