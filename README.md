@@ -4,7 +4,7 @@
 </div>  
 
 
-### <div align="center">I'm , a full-stack developer 👨‍💻  🚀</div>  
+### <div align="center">A full-stack developer 👨‍💻  🚀</div>  
   
 
 - 🔭 Find me on <a href="https://www.linkedin.com/in/daniel-kakinyi-70a8b6222/">LinkedIn</a> 
