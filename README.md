@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Flutter
   
 
-- ❓ Ask me about anything related to _script👌  
+- ❓ I talk _script👌  
   
 
 - ⚡ Fun fact: Dark mode because light attracts bugs  
