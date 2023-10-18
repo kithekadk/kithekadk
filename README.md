@@ -17,7 +17,7 @@
 - ❓ I talk _script👌  
   
 
-- ⚡ Fun fact: Dark mode because light attracts bugs  
+- ⚡ Dark mode because light attracts bugs  
   
 
 <br/>  
