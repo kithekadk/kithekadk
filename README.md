@@ -14,7 +14,7 @@
 - 🌱 I’m ever learning
   
 
-- ❓ I talk _script👌  
+- ❓ ng beast👌  
   
 
 - ⚡ Dark mode because light attracts bugs  
