@@ -11,7 +11,7 @@
 - 🔭 Find me on <a href="https://www.linkedin.com/in/daniel-kakinyi-70a8b6222/">LinkedIn</a> 
   
 
-- 🌱 I’m ever learning
+- 🌱 On to Elixir
   
 
 - ❓ ng beast👌  
